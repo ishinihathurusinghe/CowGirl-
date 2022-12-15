@@ -3,8 +3,7 @@ import java.applet.*      ;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-/*<applet code="CowGirl" width=500 height=500>
-</applet>*/
+
 public class CowGirl extends JApplet
 {       int p[]={ 90,109 , 90,110 , 90,111 , 91,112 , 91,114 , 91,115 , 91,116 , 92,117 , 94,118 , 94,119 , 95,120 , 96,121 , 97,122 ,  98,123  ,  99,124
                 ,  100,125  ,  100,126  ,  101,127  ,  102,128  ,  103,128  ,  104,129  ,  105,130  ,  106,131  ,  109,133  ,  112,134  ,  114,136  ,
